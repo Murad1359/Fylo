@@ -1,0 +1,131 @@
+body{
+    margin: 0 auto;
+    padding: 0;
+}
+
+.main{
+    width: 100%;
+    min-height: 986px;
+    background: white;
+}
+
+
+.nav{
+    position: absolute;
+    width: 1280px;
+    height: 49px;
+    left: 125px;
+    top: 65px;
+    background: transparent;
+    float: left;
+}
+
+.logo{
+    width: 640px;
+    height: 49px;
+    background: transparent;
+    float: left;
+}
+
+.menu{
+    width: 640px;
+    height: 49px;
+    background: transparent;
+    float: left;
+    background: transparent;
+}
+
+.menu ul{
+    margin: 0;
+    padding: 0;
+}
+
+.menu ul li{
+    position: relative;
+    top: 15px;
+    left: 325px;
+    display: inline;
+    padding: 30px;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 18.78px;
+}
+
+.hero1{
+    position: absolute;
+    width: 1280px;
+    height: 474px;
+    left: 125px;
+    top: 239px;
+    background: transparent;
+}
+
+.text{
+    width: 640px;
+    height: 474px;
+    background: transparent;
+    float: left;
+}
+
+.firstB{
+    position: absolute;
+    width: 627px;
+    height: 120px;
+    top: 77px;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 60px;
+}
+
+.firstP{
+    margin: 0;
+    padding: 0;
+    position: absolute;
+    width: 585px;
+    height: 72px;
+    top: 212px;
+    font-family: 'Open Sans' serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 24px;
+    margin: 15px 0px 25px 0px;
+}
+
+.text input{
+    width: 250px;
+    height: 35px;
+    position: absolute;
+    bottom: 115px;
+    box-sizing: border-box;
+    border: 0.625px solid #07043B;
+    box-shadow: 2px 3px 6px rgba(0, 0, 0, 0.15925);
+    border-radius: 3.125px;
+}
+
+.text button{
+    width: 170px;
+    height: 35px;
+    position: absolute;
+    bottom: 115px;
+    left: 266px;
+    background: #2F65F8;
+    box-shadow: 2px 3px 6px rgba(0, 0, 0, 0.15925);
+    border-color: #2F65F8;
+    border-radius: 3.125px;
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 13px;
+    line-height: 16px;
+    color: white;
+}
+
+.hero2{
+    width: 640px;
+    height: 474px;
+    background: transparent;
+    float: left;
+}
