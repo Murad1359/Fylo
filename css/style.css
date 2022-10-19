@@ -129,3 +129,126 @@ body{
     background: transparent;
     float: left;
 }
+
+/*Вторая часть*/
+
+.midle{
+    position: relative;
+    width: 100%;
+    height: 855px;
+    background: transparent;
+}
+
+.backgroundimg{
+    width: 100%;
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    top: -2.09%;
+    bottom: 0.01%;
+}
+
+.lmidle{
+    width: 50%;
+    height: 855px;
+    background: transparent;
+    float: left;
+}
+
+.rmidle{
+    width: 50%;
+    height: 855px;
+    background: transparent;
+    float: left;
+}
+
+.rmidle img{
+    position: absolute;
+    top: 220px;
+    left: 820px;
+}
+
+.lmidle b{
+    font-family: 'Raleway', sans-serif;
+    position: relative;
+    left: 80px;
+    top: 195px;
+    font-size: 40px;
+}
+
+.lmidle p{
+    position: relative;
+    top: 195px;
+    left: 80px;
+    font-size: 16px;
+    margin: 38px 0px 0px 0px;
+}
+
+.lmidle a{
+    position: relative;
+    top: 210px;
+    left: 80px;
+    color: green;
+    text-decoration: none;
+    border-bottom: 1px solid green;
+    line-height: 15px;
+}
+
+.fa-arrow-circle-right{
+    color: green;
+    position: relative;
+    top: 211.5px;
+    left: 83px;
+}
+
+.letter{
+    width: 356px;
+    height: 215px;
+    background: #FFFFFF;
+    box-shadow: 0px 0px 10px 5px rgba(56, 56, 56, 0.0458843);
+    border-radius: 5px;
+    position: relative;
+    top: 260px;
+    left: 80px;
+}
+
+.letter span{
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 23px;
+    letter-spacing: 0.5px;
+    position: absolute;
+    left: 9.27%;
+    right: 9.55%;
+    top: 22.79%;
+    bottom: 34.42%;
+}
+
+.letter b{
+    position: absolute;
+    height: 15px;
+    left: 80px;
+    top: 150px;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 11px;
+    line-height: 15px;
+    letter-spacing: 0.55px;
+}
+
+.letter b img{
+    position: absolute;
+    left: -50px;
+}
+
+.letter p{
+    position: relative;
+    top: 165px;
+    left: 80px;
+    font-size: 6px;
+    margin: 0;
+    font-family: 'Open Sans';
+}
